@@ -1,0 +1,10 @@
+1} Explain types of system? what is sub-system? explain types of system.
+2} What is system analysis ? what is system analyst ? explain roles and reposibility of system anaylsis
+3} Explain software failuer/ software cries.
+4} Explain SDLC in detail.
+5} Explain fact finding techniqes 
+6} Explain decision tree . 
+7} Explain data flow diagram with appropriate example
+8} Explain ER diagram with example
+9} Example desion table with example .
+10} Explain data dictionary with example 
